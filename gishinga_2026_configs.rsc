@@ -1127,3 +1127,7 @@ add interval=1m name=schedule1 on-event=":if ([:len [/ip route find gateway=\"\
     \n}" policy=\
     ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon \
     start-date=1970-01-02 start-time=01:50:28
+
+###############################################################################################
+
+I am from today using git for all my codes and scipts
